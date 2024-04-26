@@ -1,2 +1,2 @@
 # Computer Graphics Algorithms
- Computer Graphics application developed in unity for a university course
+ Computer Graphics application featuring different line drawing algorithms, transformations, a small pong implementation and different fractals. All developed in unity for university.
